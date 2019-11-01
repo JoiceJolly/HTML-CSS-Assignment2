@@ -1,21 +1,23 @@
 #wrap{
     width: 80%;
     margin: auto;
+    background-color: brown;
+}
+h1{
+    margin: 0px;
 }
 #main-content{
     background-color: blanchedalmond;
     float: left;
     width: 70%;
-    /* height: 600px; */
 }
 #side-bar{
     float: right;
     background-color: rgb(117, 71, 71);
     width: 30%;
-    /* height: 600px; */
 }
 #main-content,aside{
-    height: 600px;
+    height: 400px;
 }
 ul{
     list-style: none;
